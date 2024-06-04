@@ -1,4 +1,5 @@
 import streamlit as st
+import pandas
 
 st.set_page_config(layout="wide")
 
@@ -52,21 +53,6 @@ Problem-solving and critical thinking
 Time management
 Attention to detail
 Adaptability and creativity
-Education
-A.A. in Apologetics
-Liberty University, Lynchburg, VA, 2022
-
-Electro-Mechanical Diploma
-Tulsa Welding School, Jacksonville, FL, 2019
-
-Professional Welder Diploma
-Tulsa Welding School, Jacksonville, FL, 2018
-
-Personal Training Certification
-American Council on Exercise, Jacksonville, FL, 2017
-
-Military Certificate of Completion
-Security Forces Technical School, Lackland Air Force Base, TX, 2010
 
 As a veteran, I have honed my skills in discipline,
 leadership, and adaptability, which I now apply to my career in software engineering.
@@ -80,3 +66,15 @@ contributing to innovative projects and continuously advancing my skills in the 
     Below you will find a compilation of some Python projects have I completed!
     '''
 st.write(content2)
+
+col3, col4 = st.columns(2)
+
+df = pandas.read_csv("data.csv", sep=";")
+with col3:
+    for index, row in df[:10].iterrows():
+        st.header(row['title'])
+    
+    
+with col4:
+    for index, row in df[10:].iterrows():
+        st.header(row["title"])
