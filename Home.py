@@ -8,19 +8,29 @@ col1, col2 = st.columns(2)
 
 with col1:
     st.image("images/selfie 2024.jpg", width=300)
-    
-with col2:
-    st.title("Joseph Skokan")
-    content = """
-    Joseph Skokan
-Junior Software Engineer | Problem Solver | Veteran
-Phone: 571-271-7383 | Email: joeskokan20@gmail.com |
-
+    st.text("Joseph Skokan")
+    st.text("Junior Software Engineer | Problem Solver | Veteran")
+    st.text("Phone: 571-271-7383 | Email: joeskokan20@gmail.com")
+    content1 = """
 As a proud veteran and dedicated junior software engineer, 
 I bring a unique blend of discipline, critical thinking, 
 and problem-solving skills to every project I undertake. 
 My journey has equipped me with a solid foundation in various programming languages,
-including Python and JavaScript, and a passion for continuous learning and innovation.
+including Python, Rust and JavaScript, and a passion for continuous learning and innovation.
+
+
+
+    
+    
+    
+
+    """
+    st.info(content1)
+    
+    
+with col2:
+    st.title("Joseph Skokan")
+    content = """
 
 Project Highlight: BitBuddy Cryptocurrency Platform
 BitBuddy is a cryptocurrency platform I developed using Flask,
