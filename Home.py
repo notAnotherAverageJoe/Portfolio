@@ -19,11 +19,6 @@ My journey has equipped me with a solid foundation in various programming langua
 including Python, Rust and JavaScript, and a passion for continuous learning and innovation.
 
 
-
-    
-    
-    
-
     """
     st.info(content1)
     
