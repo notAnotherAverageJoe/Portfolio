@@ -2,7 +2,7 @@ title;description;url;image
 Bit Buddy; BitBuddy is a cryptocurrency platform built with Flask that allows users to buy, sell, and stake cryptocurrencies, as well as providing access to real-time market data through blockchain and external APIs.;https://github.com/notAnotherAverageJoe/bit_buddy;big.jpg
 Todo App;A distraction-free web app to help you focus on creating and completing tasks.;https://github.com/notAnotherAverageJoe/CLI_todos_python;1.png
 Portfolio Website;A website built entirely in Python to showcase coding projects and apps.;https://github.com/notAnotherAverageJoe/Portfolio;2.png
-Markov Test generator;Welcome to the Markov Text Generator! This project uses a Markov chain to generate random text based on an input file or URL.;https://github.com/notAnotherAverageJoe/markovJS/tree/main;markov.png
+Markov Text generator;Welcome to the Markov Text Generator! This project uses a Markov chain to generate random text based on an input file or URL.;https://github.com/notAnotherAverageJoe/markovJS/tree/main;markov.png
 PDF Templates;A script that generates PDF templates of multiple pages given some predefined guidelines.;https://pythonhow.com;3.png
 PDF Invoices;A script that reads invoice records from Excel files and automatically generates PDF invoices.;https://pythonhow.com;4.png
 Positive News Site;A website that gets data from a news API and uses sentiment analysis to publish only positive news.;https://pythonhow.com;5.png
