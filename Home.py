@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas
-from send_email import send_email
+
 
 st.set_page_config(layout="wide")
 
@@ -64,9 +64,9 @@ contributing to innovative projects and continuously advancing my skills in the 
     st.info(content)
     
     content2 ='''
-    Below you will find a compilation of some Python projects have I completed!
+    Below you will find a compilation of some Python projects have I either completed or am actively working on!
     '''
-st.write(content2)
+st.info(content2)
 
 col3, empty_col, col4 = st.columns([1.5,0.5,1.5])
 
