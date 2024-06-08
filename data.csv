@@ -9,6 +9,7 @@ Positive News Site;A website that gets data from a news API and uses sentiment a
 Weather API;A REST API built with Python and Flask to serve historical weather data for various cities.;https://pythonhow.com;6.png
 Download Cleaner;A script that monitors the Downloads folder and deletes old files keeping the folder clean.;https://pythonhow.com;1.png
 Tour Scraper;A program that checks a music band's website and sends an email when there are new tours.;https://pythonhow.com;1.png
+Distance Converter;A program that will take take km's and convert them to miles and vice versa, you can save the history of calcuations as well. It is a GUI tkinter app.;https://github.com/notAnotherAverageJoe/distance_converter_tkinter;distance.png
 Helper Chatbot;A chatbot that knows about a specific topic and answers questions regarding that topic.;https://pythonhow.com;1.png
 Open Domain Chatbot;A chatbot built that can discuss anything with a human and is built using the Facebook API.;https://pythonhow.com;1.png
 Webcam Motion Detector;A program that monitors the computer webcam and sends an email when a new object enters the view.;https://pythonhow.com;1.png
