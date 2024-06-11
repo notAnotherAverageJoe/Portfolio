@@ -11,8 +11,8 @@ Energy Consumption Calculator;This Rust program allows users to calculate the en
 Download Cleaner;A script that monitors the Downloads folder and deletes old files keeping the folder clean.;https://pythonhow.com;1.png
 Tour Scraper;A program that checks a music band's website and sends an email when there are new tours.;https://pythonhow.com;1.png
 Distance Converter;A program that will take take km's and convert them to miles and vice versa, you can save the history of calcuations as well. It is a GUI tkinter app.;https://github.com/notAnotherAverageJoe/distance_converter_tkinter;distance.png
-Real-time Cryptocurrency Price Dashboard;Welcome to the Real-time Cryptocurrency Price Dashboard! This Streamlit app allows users to track the latest prices and 24-hour changes of various cryptocurrencies. The app provides an intuitive and visually appealing interface for monitoring real-time cryptocurrency data;https://github.com/notAnotherAverageJoe/Crypto-Dashboard;crypto-dash.png
 Helper Chatbot;A chatbot that knows about a specific topic and answers questions regarding that topic.;https://pythonhow.com;1.png
+Real-time Cryptocurrency Price Dashboard;Welcome to the Real-time Cryptocurrency Price Dashboard! This Streamlit app allows users to track the latest prices and 24-hour changes of various cryptocurrencies. The app provides an intuitive and visually appealing interface for monitoring real-time cryptocurrency data;https://github.com/notAnotherAverageJoe/Crypto-Dashboard;crypto-dash.png
 Open Domain Chatbot;A chatbot built that can discuss anything with a human and is built using the Facebook API.;https://pythonhow.com;1.png
 Webcam Motion Detector;A program that monitors the computer webcam and sends an email when a new object enters the view.;https://pythonhow.com;1.png
 Typing Analyzer;A program that monitors the computer keyboard and returns the most typed words of the session.;https://pythonhow.com;1.png
