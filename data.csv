@@ -6,25 +6,11 @@ Portfolio Website;A website built entirely in Python to showcase coding projects
 Markov Text generator;Welcome to the Markov Text Generator! This project uses a Markov chain to generate random text based on an input file or URL.;https://github.com/notAnotherAverageJoe/markovJS/tree/main;markov.png
 PDF Templates;A script that generates PDF templates of multiple pages given some predefined guidelines.;https://github.com/notAnotherAverageJoe/Pdf_generator;3.png
 PDF Invoices;A script that reads invoice records from Excel files and automatically generates PDF invoices.;https://github.com/notAnotherAverageJoe/InvoicePDF_generator;4.png
-Positive News Site;A website that gets data from a news API and uses sentiment analysis to publish only positive news.;https://pythonhow.com;5.png
-Weather API;A REST API built with Python and Flask to serve historical weather data for various cities.;https://pythonhow.com;6.png
 Energy Consumption Calculator;This Rust program allows users to calculate the energy consumption and cost of running any device or appliance based on their input for power consumption, running time, and cost per kWh.;https://github.com/notAnotherAverageJoe/Energy-Consumption-Calculator_Rust;energy.png
-Download Cleaner;A script that monitors the Downloads folder and deletes old files keeping the folder clean.;https://pythonhow.com;1.png
-Tour Scraper;A program that checks a music band's website and sends an email when there are new tours.;https://pythonhow.com;1.png
 Distance Converter;A program that will take take km's and convert them to miles and vice versa you can save the history of calcuations as well. It is a GUI tkinter app.;https://github.com/notAnotherAverageJoe/distance_converter_tkinter;distance.png
 Helper Chatbot;A chatbot that knows about a specific topic and answers questions regarding that topic.;https://pythonhow.com;1.png
 Open Domain Chatbot;A chatbot built that can discuss anything with a human and is built using the Facebook API.;https://pythonhow.com;1.png
 Statistical Calculator API;Welcome to the Statistical Calculator API! This project is a simple yet powerful RESTful API built with Node.js and Express.js. It provides endpoints to calculate the mean, median, and mode of a list of numbers.;https://github.com/notAnotherAverageJoe/Statistical-calculator-API;nodeapi.png
 Real-time Cryptocurrency Price Dashboard;Welcome to the Real-time Cryptocurrency Price Dashboard! This Streamlit app allows users to track the latest prices and 24-hour changes of various cryptocurrencies. The app provides an intuitive and visually appealing interface for monitoring real-time cryptocurrency data;https://github.com/notAnotherAverageJoe/Crypto-Dashboard;crypto-dash.png
 Adventurers Guild Registration System;Welcome to the Adventurers Guild Registration System! This project is a OOP focused Java application for registering adventurers, setting their ranks, and class specifications.;https://github.com/notAnotherAverageJoe/Adventurers-Guild---Java;guild.png
-Webcam Motion Detector;A program that monitors the computer webcam and sends an email when a new object enters the view.;https://pythonhow.com;1.png
-Typing Analyzer;A program that monitors the computer keyboard and returns the most typed words of the session.;https://pythonhow.com;1.png
-Internet Speed Analysis;A program that records the internet speed every few seconds and plots the values on the browser.;https://pythonhow.com;1.png
-Monitoring Data;A program that monitors a particular website and periodically records the data to a remote server.;https://pythonhow.com;1.png
-Visualizing Data;A program that visualizes the data collected in the previous monitoring program. ;https://pythonhow.com;1.png
-Visualizing Weather Forecast;A data web app that visualizes the weather forecast for the next five days of any city.;https://pythonhow.com;1.png
-Student Management System;A desktop PyQt6 GUI app for managing university student data with an SQL database backend.;https://pythonhow.com;1.png
-School Management System;A desktop PyQt6 GUI app for managing complex university data with an SQL database backend.;https://pythonhow.com;1.png
-Restaurant Menu Web App;A Django web app to let customers see a restaurant menu and meal availability.;https://pythonhow.com;1.png
-Online Store;A Django online store app where users can place orders and sellers can manage them.;https://pythonhow.com;2.png
 QR code Generator JS;This project is a simple QR code generator that takes a URL input from the user and generates a QR code image file (qr_img.png) and a text file (URL.txt) containing the URL.;https://github.com/notAnotherAverageJoe/QRcodeGenerator;qrcode.png
