@@ -77,7 +77,7 @@ col3, empty_col, col4 = st.columns([1.5,0.5,1.5])
 
 df = pandas.read_csv("data.csv", sep=";")
 with col3:
-    for index, row in df[:4].iterrows():
+    for index, row in df[:7].iterrows():
         st.header(row['title'])
         st.write(row["description"])
         image_path = "images/" + row["image"]
@@ -88,7 +88,7 @@ with col3:
     
     
 with col4:
-    for index, row in df[4:].iterrows():
+    for index, row in df[7:].iterrows():
         st.header(row["title"])
         st.write(row["description"])
         image_path = "images/" + row["image"]
