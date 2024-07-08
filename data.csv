@@ -1,6 +1,7 @@
 title;description;url;image
 Bit Buddy; BitBuddy is a cryptocurrency platform built with Flask that allows users to buy, sell, and stake cryptocurrencies, as well as providing access to real-time market data through blockchain and external APIs.;https://github.com/notAnotherAverageJoe/bit_buddy;big.jpg
 Loyalty Point Checkout System;Welcome to the Loyalty Point Checkout System! This project is a Ruby-based system for managing customer checkouts and rewards. The system prompts users for their information, processes their checkouts, and calculates rewards based on their purchases.;https://github.com/notAnotherAverageJoe/Loyalty-Points-Checkout-Program---Ruby;ruby.png
+Thai Food Yum Restaurant;Welcome to the Thai Food Yum Restaurant website project! This repository contains the code for a fictional Thai restaurant's website, featuring delicious dishes and a user-friendly interface. 🍜🥗;https://github.com/notAnotherAverageJoe/Thai-food-php;thaifoodyum.png
 Todo App;A distraction-free web app to help you focus on creating and completing tasks.;https://github.com/notAnotherAverageJoe/CLI_todos_python;1.png
 Portfolio Website;A website built entirely in Python to showcase coding projects and apps.;https://github.com/notAnotherAverageJoe/Portfolio;2.png
 Markov Text generator;Welcome to the Markov Text Generator! This project uses a Markov chain to generate random text based on an input file or URL.;https://github.com/notAnotherAverageJoe/markovJS/tree/main;markov.png

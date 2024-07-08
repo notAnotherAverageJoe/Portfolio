@@ -69,7 +69,7 @@ contributing to innovative projects and continuously advancing my skills in the 
     st.info(content)
     
     content2 ='''
-    Below you will find a compilation of some Python projects have I either completed or am actively working on!
+    Below you will find a compilation of some projects I have either completed or am actively working on!
     '''
 st.info(content2)
 
@@ -77,7 +77,7 @@ col3, empty_col, col4 = st.columns([1.5,0.5,1.5])
 
 df = pandas.read_csv("data.csv", sep=";")
 with col3:
-    for index, row in df[:7].iterrows():
+    for index, row in df[:9].iterrows():
         st.header(row['title'])
         st.write(row["description"])
         image_path = "images/" + row["image"]
@@ -88,7 +88,7 @@ with col3:
     
     
 with col4:
-    for index, row in df[7:].iterrows():
+    for index, row in df[9:].iterrows():
         st.header(row["title"])
         st.write(row["description"])
         image_path = "images/" + row["image"]
