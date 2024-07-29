@@ -10,7 +10,7 @@ with col1:
     st.image("images/selfie 2024.jpg", width=300)
     st.text("Joseph Skokan")
     st.text("Junior Software Engineer | Problem Solver | Veteran")
-    st.text("Phone: 571-271-7383 | Email: joeskokan20@gmail.com")
+    st.text("Phone: 571-274-1493 | Email: joeskokan20@gmail.com")
     content1 = """
 As a proud veteran and dedicated junior software engineer, 
 I bring a unique blend of discipline, critical thinking, 
