@@ -14,7 +14,7 @@ with col1:
     
     # Introduction with background styling
     content1 = """
-    <div style="background-color:#f0f0f0; padding:10px; border-radius:5px;">
+    <div style="background-color:#1e464e; padding:10px; border-radius:5px;">
     As a proud veteran and dedicated junior software engineer, I bring a unique blend of discipline, critical thinking, and problem-solving skills to every project I undertake. 
     My journey has equipped me with a solid foundation in various programming languages, including Python, Rust, and JavaScript, and a passion for continuous learning and innovation.
     </div>
