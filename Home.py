@@ -56,7 +56,7 @@ with col2:
 
     # Personal statement
     personal_statement = """
-    <div style="background-color:#f0f0f0; padding:10px; border-radius:5px; margin-top:10px;">
+    <div style="background-color:#1e464e; padding:10px; border-radius:5px; margin-top:10px;">
     As a veteran, I have honed my skills in discipline, leadership, and adaptability, which I now apply to my career in software engineering. I am eager to bring my diverse background and technical expertise to a dynamic development team, contributing to innovative projects and continuously advancing my skills.
     </div>
     """
