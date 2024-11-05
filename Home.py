@@ -33,23 +33,11 @@ enabling users to buy, sell, and stake cryptocurrencies while providing real-tim
 This project showcases my skills in both frontend and backend development, 
 as well as my ability to integrate external APIs for real-time data retrieval.
 
-Key Features:
 
-User authentication and portfolio management
-Real-time market data integration
-Cryptocurrency transactions and staking calculator
-RESTful API for cryptocurrency management
-Crypto mining game for user engagement
-Technologies Used:
-
-Flask, SQLAlchemy, PostgreSQL
-HTML, CSS, JavaScript
-External APIs for market data
-Git, Linux, CMD
 Technical Skills
-Programming Languages: Python, JavaScript, Rust
-Web Development: HTML, CSS, Flask, SQLAlchemy
-Databases: SQL, PostgreSQL
+Programming Languages: Python, JavaScript, C, C#, Ruby, Erlang, Cobol, Perl
+Web Development: React, HTML, CSS, Flask
+Databases: SQL, PostgreSQL, MYsql, MongoDB
 Tools: Git, Linux, Command Line
 Software Development: Data structures, algorithms, debugging, testing
 Soft Skills
