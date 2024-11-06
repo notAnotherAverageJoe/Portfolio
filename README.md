@@ -2,6 +2,8 @@
 
 Welcome to my portfolio! This Streamlit application showcases my professional background, technical skills, and some of the Python, JavaScript and Rust projects I've completed.
 
+## Live Link : https://joseph-skokan-portfolio.streamlit.app/
+
 ---
 
 ## **Overview**
@@ -42,6 +44,7 @@ The projects section is divided into two columns, each displaying different proj
 - **Column 2**: Displays the second half of the projects.
 
 Each project includes:
+
 - **Title**: The project title.
 - **Description**: A brief overview of the project.
 - **Image**: Related image for visual context.
